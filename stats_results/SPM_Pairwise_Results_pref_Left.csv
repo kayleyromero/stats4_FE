@@ -1,0 +1,22 @@
+Condition,Leg,Muscle 1,Muscle 2,Significant Gait Phases
+pref,Left,BICEPSFEM_LT_uV,LAT_GASTROLT_uV,35.0% - 58.0%
+pref,Left,BICEPSFEM_LT_uV,MED_GASTROLT_uV,37.5% - 60.0%
+pref,Left,BICEPSFEM_LT_uV,SOLEUSLT_uV,35.5% - 58.0%
+pref,Left,BICEPSFEM_LT_uV,VLOLT_uV,36.0% - 46.5%
+pref,Left,BICEPSFEM_LT_uV,RECTUSFEM_LT_uV,38.0% - 46.0%
+pref,Left,BICEPSFEM_LT_uV,TIB_ANT_LT_uV,None
+pref,Left,LAT_GASTROLT_uV,MED_GASTROLT_uV,None
+pref,Left,LAT_GASTROLT_uV,SOLEUSLT_uV,None
+pref,Left,LAT_GASTROLT_uV,VLOLT_uV,0.0% - 8.0%; 84.0% - 99.5%
+pref,Left,LAT_GASTROLT_uV,RECTUSFEM_LT_uV,0.0% - 4.5%; 83.0% - 99.5%
+pref,Left,LAT_GASTROLT_uV,TIB_ANT_LT_uV,0.0% - 4.0%; 87.0% - 99.5%
+pref,Left,MED_GASTROLT_uV,SOLEUSLT_uV,None
+pref,Left,MED_GASTROLT_uV,VLOLT_uV,0.0% - 3.0%; 82.5% - 99.5%
+pref,Left,MED_GASTROLT_uV,RECTUSFEM_LT_uV,0.0% - 0.5%; 79.5% - 99.5%
+pref,Left,MED_GASTROLT_uV,TIB_ANT_LT_uV,0.0% - 1.0%; 78.5% - 99.5%
+pref,Left,SOLEUSLT_uV,VLOLT_uV,0.0% - 9.5%; 79.0% - 99.5%
+pref,Left,SOLEUSLT_uV,RECTUSFEM_LT_uV,0.0% - 6.5%; 80.0% - 99.5%
+pref,Left,SOLEUSLT_uV,TIB_ANT_LT_uV,0.0% - 7.0%; 80.0% - 99.5%
+pref,Left,VLOLT_uV,RECTUSFEM_LT_uV,None
+pref,Left,VLOLT_uV,TIB_ANT_LT_uV,57.5% - 65.0%
+pref,Left,RECTUSFEM_LT_uV,TIB_ANT_LT_uV,60.0% - 66.0%
